@@ -1,3 +1,3 @@
 <?php
-print "Moi"\n";
+print "moi " . PHP_VERSION . "\n";
 ?>
